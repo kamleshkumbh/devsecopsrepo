@@ -6,6 +6,10 @@ class C {
 		method6() {
 			System.out.println("in method6 class C");
 		}
+
+		method12() {
+			System.out.println("in method12 class C");
+		}
 	
 		method15() {
 			System.out.println("in method15 class C");
